@@ -1,7 +1,7 @@
 # Kilat Pet Delivery - lib-proto
 
 The contract between services: CloudEvents schemas for every Kafka topic, and the cross-service DTOs (AddressDTO, PetSpecDTO and friends) that request and response bodies are built from.
-Jira project **KPD** - GitHub `Kilat-Pet-Delivery/lib-proto` - stack **Go 1.24 - library**. Global rules live in `~/.claude/`;
+Jira project **KPD** - GitHub `niaga-labs/niaga-labs-pet-lib-proto` - stack **Go 1.24 - library**. Global rules live in `~/.claude/`;
 this file only adds what is specific here.
 
 ## Orient here first
