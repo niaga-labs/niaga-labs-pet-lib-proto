@@ -4,7 +4,7 @@ Shared event schemas and DTOs for Kilat Pet Runner.
 
 ## Organization
 
-[github.com/Kilat-Pet-Delivery](https://github.com/Kilat-Pet-Delivery)
+[github.com/niaga-labs](https://github.com/niaga-labs)
 
 ## What It Provides
 
@@ -29,7 +29,7 @@ User, Runner, CrateSpec, Address, PetSpec, Vaccination, Coordinate
 ## Installation
 
 ```bash
-go get github.com/Kilat-Pet-Delivery/lib-proto
+go get github.com/niaga-labs/niaga-labs-pet-lib-proto
 ```
 
 ## Requirements

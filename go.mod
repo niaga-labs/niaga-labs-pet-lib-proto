@@ -1,4 +1,4 @@
-module github.com/Kilat-Pet-Delivery/lib-proto
+module github.com/niaga-labs/niaga-labs-pet-lib-proto
 
 go 1.24.0
 
